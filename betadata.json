@@ -1,0 +1,119 @@
+{
+    "categories" : [
+        {
+            "id" : 1,
+            "image": "https://github.com/taharehany/betamaxfiles/blob/master/images/cat1.jpg?raw=true",
+            "title": "product"
+        },
+        {
+            "id" : 2,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat2.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 3,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat3.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 4,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat4.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 5,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat5.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 6,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat6.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 7,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat7.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 8,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat8.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 9,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat9.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 10,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat10.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 11,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat11.jpg",
+            "title": "product"
+        },
+        {
+            "id" : 12,
+            "image": "https://github.com/taharehany/betamaxfiles/tree/master/images/cat12.jpg",
+            "title": "product"
+        }
+    ],
+
+    "portfolio" : [
+        {
+            "id":1,
+            "image": "/images/portfolio-img1.jpg"
+        },
+        {
+            "id":2,
+            "image": "/images/portfolio-img2.jpg"
+        },
+        {
+            "id":3,
+            "image": "/images/portfolio-img3.jpg"
+        },
+        {
+            "id":4,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":5,
+            "image": "/images/portfolio-img5.jpg"
+        },
+        {
+            "id":6,
+            "image": "/images/portfolio-img6.jpg"
+        },
+        {
+            "id":7,
+            "image": "/images/portfolio-img4.jpg"
+        },
+        {
+            "id":8,
+            "image": "/images/portfolio-img8.jpg"
+        }
+    ] ,
+    "social" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-facebook fa-lg",
+            "title" : "Follow Me on",
+            "body" : "Social Facebook"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-twitter fa-lg",
+            "title" : "Tweet Me on",
+            "body" : "Social twitter"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-pinterest fa-lg",
+            "title" : "Pin Me on",
+            "body" : "Social Pinterest"
+        }
+    ] 
+}
